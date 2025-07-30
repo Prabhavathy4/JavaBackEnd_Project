@@ -1,10 +1,10 @@
 package entity;
 
-public class SampleEntity {
+public class sample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Welcome to my project");
+System.out.println("Hello guys");
 	}
 
 }
